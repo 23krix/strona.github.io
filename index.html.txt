@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>My Website</title>
+  </head>
+  <body>
+    <h1>Welcome to my website!</h1>
+    <p>Here you will find information about me and my interests.</p>
+  </body>
+</html>
